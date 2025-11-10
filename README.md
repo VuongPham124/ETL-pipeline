@@ -16,6 +16,9 @@ The entire ETL workflow—from extraction to transformation—was orchestrated u
 Data Warehouse Mode
 ![alt text](Mode.png)
 
+Airflow
+<img width="705" height="459" alt="image" src="https://github.com/user-attachments/assets/143e52ea-6d1b-4295-b6e8-91d4be83fb15" />
+
 Dashboard with Power BI
 ![alt text](image.png)
 ![alt text](image-1.png)
